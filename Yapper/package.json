@@ -1,11 +1,10 @@
 {
 "name": "yapper-react-role",
 "version": "1.0.0",
-"description": "A Yapper bot for assigning roles via reactions",
+"description": "A Yapper reaction role bot",
 "main": "bot.js",
 "type": "module",
 "scripts": {
-"start": "node --env-file=.env bot.js"
-},
-"dependencies": {}
+"start": "node bot.js"
+}
 }
